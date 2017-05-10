@@ -29,7 +29,7 @@ div.rele_ligado {
     height: 206px;
     border: none;
 	margin:auto;
-    background: url("https://www.4shared.com/photo/Z9VzOVd0ca/lampada_ligada.html") no-repeat left top;
+    background: url(https://cdn.rawgit.com/carloscovo/css/master/lampada_ligada.png) no-repeat left top;
 }
 
 div.rele_desligado {
@@ -39,7 +39,7 @@ div.rele_desligado {
     width: 300px;
     height: 206px;
     border: none;
-	background: url("https://www.4shared.com/photo/crLR-mOjei/lampada_desligada.html") no-repeat left top;
+	background: url(https://cdn.rawgit.com/carloscovo/css/master/lampada_desligada.png) no-repeat left top;
 }
 
 #div1 {
