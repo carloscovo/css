@@ -29,7 +29,7 @@ div.rele_ligado {
     height: 206px;
     border: none;
     margin:auto;
-    background-image: url(lampada_ligada.png) no-repeat left top;
+    background-image: url(.../lampada_ligada.png) no-repeat left top;
 }
 
 div.rele_desligado {
