@@ -40,6 +40,7 @@ div.rele_desligado {
     width: 300px;
     height: 206px;
     border: none;
+    margin:auto;
     background-image: margin: 0 auto;
     background: url(http://roratto.com.br/imagens/lampada_desligada.png) no-repeat;
 }
