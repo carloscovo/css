@@ -29,7 +29,7 @@ div.rele_ligado {
     height: 206px;
     border: none;
     margin:auto;
-    background-image: url('http://roratto.com.br/imagens/lampada_ligada.png') no-repeat left top;
+    background-image: url(http://roratto.com.br/imagens/lampada_ligada.png);
 }
 
 div.rele_desligado {
@@ -39,7 +39,7 @@ div.rele_desligado {
     width: 300px;
     height: 206px;
     border: none;
-    background-image: url('http://roratto.com.br/imagens/lampada_desligada.png') no-repeat left top;
+    background-image: url(http://roratto.com.br/imagens/lampada_desligada.png);
 }
 
 #div1 {
