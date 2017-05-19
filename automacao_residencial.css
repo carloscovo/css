@@ -21,9 +21,9 @@ body {
     font-family: arial;
 }
 
-div.rele_ligado {
+div.rele1_ligado {
     position: absolute;
-    right: 50px;
+    right: -110px;
     top: 220px;
     width: 300px;
     height: 206px;
@@ -33,7 +33,7 @@ div.rele_ligado {
     background: url(http://roratto.com.br/imagens/lampada_ligada.png) no-repeat;
 }
 
-div.rele_desligado {
+div.rele1_desligado {
     position: absolute;
     right: -110px;
     top: 220px;
