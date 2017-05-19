@@ -30,7 +30,7 @@ div.rele_ligado {
     border: none;
     margin:auto;
     background-image: margin: 0 auto;
-    background: url(http://roratto.com.br/imagens/lampada_ligada.png) no-repeat;
+    background: url(https://raw.githubusercontent.com/carloscovo/css/master/lampada_ligada.png) no-repeat;
 }
 
 div.rele_desligado {
@@ -42,7 +42,7 @@ div.rele_desligado {
     border: none;
     margin:auto;
     background-image: margin: 0 auto;
-    background: url(http://roratto.com.br/imagens/lampada_desligada.png) no-repeat;
+    background: url(https://raw.githubusercontent.com/carloscovo/css/master/lampada_desligada.png) no-repeat;
 }
 
 #div1 {
